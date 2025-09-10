@@ -1,0 +1,19 @@
+package frameworkone.base.classes;
+
+import org.openqa.selenium.WebDriver;
+
+public class PageDriver {
+	
+	WebDriver driver;
+	
+	private static final ThreadLocal<WebDriver> threadDriver = new ThreadLocal<WebDriver>();
+	
+	public static WebDriver getDriver() {
+		return threadDriver.get();
+	}
+	
+	public static void setDriver(WebDriver driver) {
+		this.driver = driver;
+	}
+
+}

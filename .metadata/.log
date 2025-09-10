@@ -1,0 +1,1225 @@
+!SESSION 2025-09-09 20:35:15.991 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-09-09 20:35:17.285
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 20:35:17.436
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 20:36:42.849
+!MESSAGE Logback config file: /Users/sharats/Documents/eclipse/SeleniumFramework-1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-09-09 20:36:44.103
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-09 20:36:44.103
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2025-09-09 20:37:19.798 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-09-09 20:37:21.429
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 20:37:21.581
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 20:37:23.924
+!MESSAGE Logback config file: /Users/sharats/Documents/eclipse/SeleniumFramework-1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-09-09 20:37:24.588
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-09 20:37:24.588
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:38:17.610
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:38:17.978
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:38:17.984
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.505
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.505
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.505
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.506
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.508
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 20:38:22.509
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.jface 2 0 2025-09-09 20:38:22.939
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-09 20:38:22.939
+!MESSAGE A conflict occurred for COMMAND+SHIFT+C:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:38:58.967
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:{sel-version} is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:39:00.220
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:39:00.336
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:{sel-version} is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:39:00.485
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-09-09 20:39:01.167
+!MESSAGE Could not download sources for org.seleniumhq.selenium:selenium-java:{sel-version}
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.seleniumhq.selenium:selenium-java:jar:sources:{sel-version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.seleniumhq.selenium:selenium-java:jar:sources:{sel-version}
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-09-09 20:39:01.168
+!MESSAGE Could not resolve artifact org.seleniumhq.selenium:selenium-java:jar:sources:{sel-version}
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-09-09 20:39:01.168
+!MESSAGE Missing org.seleniumhq.selenium:selenium-java:jar:sources:{sel-version}
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:39:04.585
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:39:56.709
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:{sel-version} is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:39:56.845
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:39:56.904
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-09-09 20:39:57.890
+!MESSAGE Could not download javadoc for org.seleniumhq.selenium:selenium-java:{sel-version}
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.seleniumhq.selenium:selenium-java:jar:javadoc:{sel-version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:584)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:228)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:553)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:538)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.seleniumhq.selenium:selenium-java:jar:javadoc:{sel-version}
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-09-09 20:39:57.890
+!MESSAGE Could not resolve artifact org.seleniumhq.selenium:selenium-java:jar:javadoc:{sel-version}
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-09-09 20:39:57.890
+!MESSAGE Missing org.seleniumhq.selenium:selenium-java:jar:javadoc:{sel-version}
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-09 20:40:01.863
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:{sel-version} is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:40:48.077
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:40:48.098
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-09-09 20:41:36.564
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Users/sharats/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/classes:/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/Users/sharats/Documents/eclipse/SeleniumFramework-1/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1757475696563
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 20:41:36.564
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-09-09 20:41:36.568
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 27841
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-09 20:43:46.404
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-09-09 20:49:55.551
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:38.252
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.computeCompletionProposals(LSContentAssistProcessor.java:145)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:378)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:377)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:41.877
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:42.082
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:42.259
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:42.528
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:42.871
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:45.850
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:46.001
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:46.156
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-09-09 22:53:46.387
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getFuture(LSContentAssistProcessor.java:330)
+	at org.eclipse.lsp4e.operations.completion.LSContentAssistProcessor.getCompletionProposalAutoActivationCharacters(LSContentAssistProcessor.java:366)
+	at org.eclipse.jface.text.contentassist.IContentAssistProcessorExtension$1.isCompletionProposalAutoActivation(IContentAssistProcessorExtension.java:115)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.getAutoActivationTriggerType(ContentAssistant.java:1249)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.keyPressed(ContentAssistant.java:346)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener.verifyKey(ContentAssistant.java:375)
+	at org.eclipse.jface.text.TextViewer$VerifyKeyListenersManager.verifyKey(TextViewer.java:480)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:68)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:5742)
+	at org.eclipse.swt.custom.StyledText.lambda$28(StyledText.java:5426)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4645)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1561)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1557)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1101)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6492)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:607)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6324)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:236)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2264)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2510)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6444)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5691)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5831)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3985)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:310)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 22:53:51.592
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 22:54:03.629
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 22:54:03.715
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 22:54:04.778
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 22:54:13.098
+!MESSAGE Classpath changed for project: frameworkone
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.185
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.187
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.188
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.188
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.192
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:24.193
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.474
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.477
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.477
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.478
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.482
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:46.484
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.602
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.603
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.604
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.604
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.608
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:56:47.610
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.epp.mpc.core 1 0 2025-09-09 22:57:54.954
+!MESSAGE Some entries could not be found on the Marketplace
+!SUBENTRY 1 org.eclipse.epp.mpc.core 1 0 2025-09-09 22:57:54.954
+!MESSAGE Node not found: '58287'
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:40.927
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,org.webjars.jquery.source,3.7.1 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:40.929
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,org.webjars.jquery,3.7.1 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.213
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,com.beust.jcommander,1.83.0 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.213
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,org.yaml.snakeyaml.source,2.2.0 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.213
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,org.testng,7.11.0.r202503091654 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.213
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,com.beust.jcommander.source,1.83.0 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.214
+!MESSAGE The digest algorithms (md5) used to verify osgi.bundle,org.testng.source,7.11.0.r202503091654 have severely compromised security. Please report this concern to the artifact provider.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-09-09 22:59:41.214
+!MESSAGE The digest algorithms (md5) used to verify org.eclipse.update.feature,org.testng.p2.feature,7.11.0.r202503091654 have severely compromised security. Please report this concern to the artifact provider.
+!SESSION 2025-09-09 22:59:51.929 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -data file:/Users/sharats/Documents/eclipse/SeleniumFramework-1/ -product org.eclipse.epp.package.jee.product -keyring /Users/sharats/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-09-09 22:59:54.305
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 22:59:54.433
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-09-09 22:59:55.793
+!MESSAGE Logback config file: /Users/sharats/Documents/eclipse/SeleniumFramework-1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2025-09-09 22:59:56.732
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2025-09-09 22:59:56.732
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.387
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.387
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.388
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.388
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.391
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-09-09 22:59:58.393
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.testng.eclipse 1 0 2025-09-09 23:00:11.738
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar /Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar /Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar /Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar /Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar /Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar /Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar /Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar /Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar /Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar /Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar /Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54015 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
+java -ea -classpath /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar:/Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar:/Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar:/Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar:/Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar:/Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar org.testng.remote.RemoteTestNG -serport 54015 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-09-09 23:00:21.559
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/Users/sharats/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.aarch64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/classes:/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/../../../../../.p2/pool/plugins/org.springframework.tooling.boot.ls_1.52.0.202401312010/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/Users/sharats/Documents/eclipse/SeleniumFramework-1/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1757484021558
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-09 23:00:21.561
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-09-09 23:00:21.567
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 31098
+
+!ENTRY org.testng.eclipse 1 0 2025-09-09 23:00:28.917
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar /Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar /Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar /Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar /Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar /Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar /Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar /Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar /Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar /Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar /Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar /Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54095 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /var/folders/y5/t934x7rd4hj_98g7rwr0_w_h0000gn/T/testng-eclipse--1273754921/testng-customsuite.xml
+java -ea -classpath /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar:/Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar:/Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar:/Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar:/Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar:/Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar org.testng.remote.RemoteTestNG -serport 54095 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /var/folders/y5/t934x7rd4hj_98g7rwr0_w_h0000gn/T/testng-eclipse--1273754921/testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-09-09 23:01:50.412
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar /Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar /Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar /Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar /Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar /Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar /Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar /Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar /Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar /Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar /Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar /Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54476 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
+java -ea -classpath /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar:/Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar:/Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar:/Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar:/Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar:/Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar org.testng.remote.RemoteTestNG -serport 54476 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-09-09 23:05:06.179
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar /Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar /Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar /Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar /Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar /Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar /Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar /Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar /Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar /Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar /Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar /Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar /Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar /Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar /Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar /Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55402 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
+java -ea -classpath /Users/sharats/eclipse/jee-2023-12/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/1026/0/.cp/lib/testng-remote.jar:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/test-classes:/Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/target/classes:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-java/4.35.0/selenium-java-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-api/4.35.0/selenium-api-4.35.0.jar:/Users/sharats/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.35.0/selenium-chrome-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.35.0/selenium-chromium-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-json/4.35.0/selenium-json-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.35.0/selenium-manager-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v137/4.35.0/selenium-devtools-v137-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v138/4.35.0/selenium-devtools-v138-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v139/4.35.0/selenium-devtools-v139-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.35.0/selenium-edge-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.35.0/selenium-firefox-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-http/4.35.0/selenium-http-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.35.0/selenium-ie-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.35.0/selenium-remote-driver-4.35.0.jar:/Users/sharats/.m2/repository/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar:/Users/sharats/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/Users/sharats/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/sharats/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/Users/sharats/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-api/1.53.0/opentelemetry-api-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-context/1.53.0/opentelemetry-context-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-common/1.53.0/opentelemetry-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.53.0/opentelemetry-exporter-logging-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.53.0/opentelemetry-sdk-common-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.53.0/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.53.0/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.53.0/opentelemetry-sdk-trace-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.53.0/opentelemetry-sdk-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.53.0/opentelemetry-sdk-metrics-1.53.0.jar:/Users/sharats/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.53.0/opentelemetry-sdk-logs-1.53.0.jar:/Users/sharats/.m2/repository/net/bytebuddy/byte-buddy/1.17.6/byte-buddy-1.17.6.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-os/4.35.0/selenium-os-4.35.0.jar:/Users/sharats/.m2/repository/org/apache/commons/commons-exec/1.5.0/commons-exec-1.5.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.35.0/selenium-safari-driver-4.35.0.jar:/Users/sharats/.m2/repository/org/seleniumhq/selenium/selenium-support/4.35.0/selenium-support-4.35.0.jar:/Users/sharats/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/sharats/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/sharats/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/sharats/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/sharats/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar org.testng.remote.RemoteTestNG -serport 55402 -protocol json -d /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/test-output /Users/sharats/Documents/eclipse/SeleniumFramework-1/frameworkone/Frameworkone.xml
