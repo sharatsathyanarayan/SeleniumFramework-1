@@ -1,4 +1,4 @@
-# Selenium Test Automation Framework
+# Selenium Test Automation Framework (BaseTest to handle browsers & share driver object across project)
 
 FrameworkOne is a modular Selenium automation testing framework built using Java, TestNG, and Maven.
 It follows Object-Oriented Programming (OOP) principles to promote reusability, maintainability, and scalability.
