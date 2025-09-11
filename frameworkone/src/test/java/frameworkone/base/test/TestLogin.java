@@ -1,15 +1,19 @@
 package frameworkone.base.test;
 
+import static org.testng.Assert.assertEquals;
+
 import java.time.Duration;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
 
 import frameworkone.base.classes.BaseTest;
 import frameworkone.base.classes.PageDriver;
 
-public class TestLogin extends BaseTest{
+public class TestLogin extends BaseTest {
 
 	WebDriver driver = null;
 
@@ -27,8 +31,10 @@ public class TestLogin extends BaseTest{
 		driver.findElement(By.id("user-name")).sendKeys("standard_user");
 		driver.findElement(By.id("password")).sendKeys("secret_sauce");
 		driver.findElement(By.id("login-button")).click();
+		WebElement productsLogo = wait
+				.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("span[data-test='title']")));
 
-		System.out.println((driver.getTitle().toString()));
+		assertEquals(productsLogo.getText().toString(), "Products");
 
 	}
 
