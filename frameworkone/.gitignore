@@ -1,0 +1,33 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Build output directories
+/bin/
+/target/
+
+# Test results
+test-output/
+*.log
+
+# IDE specific (other editors you might use)
+*.iml
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data or temporary files
+*.dat
+*.tmp
+*.csv
+
+# Ignore compiled class files
+*.class
+
+# Ignore JARs, WARs, EARs (generated artifacts)
+*.jar
+*.war
+*.ear
