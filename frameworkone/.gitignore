@@ -4,52 +4,41 @@
 .classpath
 .project
 .settings/
+.factorypath
 
 #############################
-# IntelliJ / Android Studio
+# IntelliJ IDEA
 #############################
 .idea/
 *.iml
 
 #############################
-# Build output directories
+# Build output
 #############################
 /bin/
 /target/
 /out/
 /build/
 
-#############################
-# Test results
-#############################
-test-output/
-*.log
+# Maven Surefire / Failsafe test reports
+target/surefire-reports/
+target/failsafe-reports/
 
 #############################
-# Data / temporary files
+# Logs & temp files
 #############################
-*.dat
+*.log
 *.tmp
+*.dat
 *.csv
 
 #############################
-# Compiled files
+# Compiled classes & artifacts
 #############################
 *.class
-
-#############################
-# Generated JAR/WAR/EAR packages
-#############################
 *.jar
 *.war
 *.ear
-
-#############################
-# Maven
-#############################
-.mvn/
-!.mvn/wrapper/maven-wrapper.jar
-dependency-reduced-pom.xml
 
 #############################
 # Gradle
@@ -59,7 +48,7 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 
 #############################
-# OS-specific files
+# OS-specific
 #############################
 .DS_Store
 Thumbs.db
