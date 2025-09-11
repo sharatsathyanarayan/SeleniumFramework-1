@@ -26,9 +26,7 @@ public class TestLogin_negative extends BaseTest {
 
 		driver.get("https://www.saucedemo.com/");
 		driver.manage().window().maximize();
-
-		// WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(5));
 
 		driver.findElement(By.id("user-name")).sendKeys("standard_user");
 		driver.findElement(By.id("password")).sendKeys("wrong_password");
