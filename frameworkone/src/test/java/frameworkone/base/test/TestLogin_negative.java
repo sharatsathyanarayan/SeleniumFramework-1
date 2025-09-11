@@ -25,7 +25,7 @@ public class TestLogin_negative extends BaseTest{
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
 
 		driver.findElement(By.id("user-name")).sendKeys("standard_user");
-		driver.findElement(By.id("password")).sendKeys("secret_sauce");
+		driver.findElement(By.id("password")).sendKeys("wrong_password");
 		driver.findElement(By.id("login-button")).click();
 
 		System.out.println((driver.getTitle().toString()));
