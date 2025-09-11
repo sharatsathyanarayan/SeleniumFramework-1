@@ -1,0 +1,17 @@
+package frameworkone.base.classes;
+
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class WebDriverGenericWait {
+	
+	private static WebDriverWait wait;
+
+	public static WebDriverWait getWait() {
+		return wait;
+	}
+
+	public static void setWait(WebDriverWait wait) {
+		WebDriverGenericWait.wait = wait;
+	}
+
+}
