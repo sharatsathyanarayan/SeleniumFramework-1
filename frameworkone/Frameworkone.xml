@@ -4,6 +4,7 @@
     <test name="LoginTest">
         <classes>
             <class name="frameworkone.base.test.TestLogin"/>
+            <class name="frameworkone.base.test.TestLogin_negative"/>
         </classes>
     </test>
 </suite>
