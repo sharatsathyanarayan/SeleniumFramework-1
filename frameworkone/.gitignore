@@ -1,33 +1,65 @@
-# Eclipse specific files
+#############################
+# Eclipse specific
+#############################
 .classpath
 .project
 .settings/
 
+#############################
+# IntelliJ / Android Studio
+#############################
+.idea/
+*.iml
+
+#############################
 # Build output directories
+#############################
 /bin/
 /target/
+/out/
+/build/
 
+#############################
 # Test results
+#############################
 test-output/
 *.log
 
-# IDE specific (other editors you might use)
-*.iml
-.idea/
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Data or temporary files
+#############################
+# Data / temporary files
+#############################
 *.dat
 *.tmp
 *.csv
 
-# Ignore compiled class files
+#############################
+# Compiled files
+#############################
 *.class
 
-# Ignore JARs, WARs, EARs (generated artifacts)
+#############################
+# Generated JAR/WAR/EAR packages
+#############################
 *.jar
 *.war
 *.ear
+
+#############################
+# Maven
+#############################
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+dependency-reduced-pom.xml
+
+#############################
+# Gradle
+#############################
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+#############################
+# OS-specific files
+#############################
+.DS_Store
+Thumbs.db
