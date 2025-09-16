@@ -1,6 +1,7 @@
 #############################
 # Eclipse specific
 #############################
+.metadata/
 .classpath
 .project
 .settings/
@@ -19,6 +20,7 @@
 /target/
 /out/
 /build/
+/test-output/
 
 # Maven Surefire / Failsafe test reports
 target/surefire-reports/
