@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="FrameWorkOne">
-    <test name="LoginTest">
-        <classes>
-            <class name="frameworkone.base.test.TestLogin"/>
-        </classes>
-    </test>
-</suite>

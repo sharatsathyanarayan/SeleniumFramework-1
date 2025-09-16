@@ -1,7 +1,0 @@
-<suite name="FrameWorkOne">
-    <test name="LoginTest">
-        <classes>
-            <class name="frameworkone.base.test.TestLogin"/>
-        </classes>
-    </test>
-</suite>
